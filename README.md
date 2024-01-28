@@ -3,9 +3,10 @@ PostGres_SQL_Challenge
 
 Author: Alex Feeney
 
+Description: 6 Tables of raw data imported into 
 
 
-
+ERD
 
 
 
@@ -32,4 +33,4 @@ Data Modelling (10 points)
     List each employee in the Sales department, including their employee number, last name, and first name (2 points)
     List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name (4 points)
     List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name) (4 points)
-    Description: 6 Tables of raw data imported into 
+  
