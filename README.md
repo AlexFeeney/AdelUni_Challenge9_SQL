@@ -9,7 +9,8 @@ Description: 6 Tables of raw data imported into PostgresSQL
 
 ERD - Created as below using EasyDCD
 
-Database_ERD Design.PNG
+![image](https://github.com/AlexFeeney/AdelUni_Challenge9_SQL/assets/123467468/37cc88af-ce31-445a-a0ea-f0b4b4881be7)
+
 
 
 
